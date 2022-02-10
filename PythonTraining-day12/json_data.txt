@@ -1,0 +1,1 @@
+{"city": ["Tripoli", "Tripoli", "Rome", "Rome", "Sydney", "Sydney"], "rank": ["1st", "2nd", "1st", "2nd", "1st", "2nd"], "name": ["Noureddin", "Adam", "Kevin", "Raihana", "Raghad", "Mahdi"], "score1": [44, 48, 39, 41, 38, 44], "score2": [67, 63, 55, 70, 64, 77]}
